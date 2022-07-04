@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+Body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .container{
     display: flex;
@@ -9,8 +12,14 @@
     margin: 50px 100px;
 
 }
+.banner-left{
+    margin-top: 60px;
+}
 .container .banner-left h1{
     font-size: 45px;
     font-weight: 600;
+}
+.banner-left span{
+    color: green;
 }
 
