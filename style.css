@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+
+}
+.container .banner-left h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+
